@@ -28,3 +28,28 @@ header h1 {
 .download-link:hover {
     text-decoration: underline;
 }
+
+.video-section {
+    text-align: center;
+    margin: 50px 0;
+}
+
+video {
+    width: 80%;
+    max-width: 800px;
+    height: auto;
+}
+
+.content-section {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.image-center {
+    margin: 20px 0;
+}
+
+.image-center img {
+    max-width: 100%;
+    height: auto;
+}
