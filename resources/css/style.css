@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Assuming a black background as per design */
+    color: #fff; /* Default white color for text */
+}
+
+header {
+    text-align: center;
+    margin: 50px 0;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: #fff;
+}
+
+.download-link {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: none;
+}
+
+.download-link:hover {
+    text-decoration: underline;
+}
